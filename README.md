@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Mateus Magalhães Queiroz
+Matricula: 892765
 
 ## Tela de inspeção com navegador
 
 
+
 ## Tela de projeto no Replit
 
+https://0611d5d5-a792-470d-93a2-d6cafc81b403-00-32q318u8sjc3p.picard.replit.dev/
